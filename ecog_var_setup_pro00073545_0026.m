@@ -1,3 +1,4 @@
+%changing this file
 data_ecog_anal_pro00073545_0026.cfg.info.dx='pd' %you can use the info field for any info 
 %that did not change throughout the experiment, such as diagnosis
 data_ecog_anal_pro00073545_0026.cfg.info.ecog_lat='rt'
